@@ -1,0 +1,59 @@
+* [34m
+ _____          ___  ___          _
+|  ___|         |  \/  |         | |
+| |____   _____ | .  . | __ _ ___| |_ ___ _ __
+|  __\ \ / / _ \| |\/| |/ _` / __| __/ _ \ '__|
+| |___\ V / (_) | |  | | (_| \__ \ ||  __/ |
+\____/ \_/ \___/\_|  |_/\__,_|___/\__\___|_|
+
+                    [0m
+* EvoMaster version: 1.6.1-SNAPSHOT
+* Initializing...
+09:56:20.220 [main] WARN  o.t.u.TestcontainersConfiguration - Attempted to read Testcontainers configuration file at file:/root/.testcontainers.properties but the file was not found. Exception message: FileNotFoundException: /root/.testcontainers.properties (No such file or directory)
+* There are 6 usable RESTful API endpoints defined in the schema configuration
+09:56:21.717 [main] WARN  o.e.c.p.rest.RestActionBuilderV3 - No fields for object definition: loc_item
+* Starting to generate test cases
+
+[1A[2K* Consumed search budget: 2.084%; covered targets: 0; time per test: 6250.0ms (4.0 actions)
+[1A[2K* Consumed search budget: 13.380%; covered targets: 7; time per test: 20061.5ms (7.0 actions)
+[1A[2K* Consumed search budget: 24.001%; covered targets: 13; time per test: 23993.3ms (5.0 actions)
+09:57:34.779 [main] WARN  o.e.c.s.service.SearchTimeController - The SUT sent a 'Connection: close' HTTP header. This should be avoided, if possible
+[1A[2K* Consumed search budget: 34.358%; covered targets: 15; time per test: 25762.5ms (5.0 actions)
+[1A[2K* Consumed search budget: 47.059%; covered targets: 18; time per test: 28230.6ms (4.8 actions)
+[1A[2K* Consumed search budget: 51.073%; covered targets: 18; time per test: 25532.2ms (5.2 actions)
+[1A[2K* Consumed search budget: 52.466%; covered targets: 18; time per test: 22481.0ms (5.0 actions)
+[1A[2K* Consumed search budget: 55.140%; covered targets: 18; time per test: 20673.4ms (5.4 actions)
+[1A[2K* Consumed search budget: 55.408%; covered targets: 18; time per test: 18465.8ms (4.9 actions)
+[1A[2K* Consumed search budget: 58.858%; covered targets: 18; time per test: 17653.7ms (5.3 actions)
+[1A[2K* Consumed search budget: 61.462%; covered targets: 23; time per test: 16758.7ms (5.5 actions)
+[1A[2K* Consumed search budget: 62.609%; covered targets: 25; time per test: 15648.7ms (5.3 actions)
+[1A[2K* Consumed search budget: 63.153%; covered targets: 25; time per test: 14570.4ms (5.1 actions)
+[1A[2K* Consumed search budget: 64.899%; covered targets: 25; time per test: 13903.7ms (5.1 actions)
+[1A[2K* Consumed search budget: 67.692%; covered targets: 25; time per test: 13535.1ms (5.3 actions)
+[1A[2K* Consumed search budget: 70.763%; covered targets: 25; time per test: 13264.8ms (5.4 actions)
+[1A[2K* Consumed search budget: 72.729%; covered targets: 26; time per test: 12831.4ms (5.5 actions)
+[1A[2K* Consumed search budget: 74.864%; covered targets: 26; time per test: 12474.1ms (5.5 actions)
+[1A[2K* Consumed search budget: 76.651%; covered targets: 26; time per test: 12099.6ms (5.5 actions)
+[1A[2K* Consumed search budget: 79.279%; covered targets: 26; time per test: 11888.7ms (5.6 actions)
+[1A[2K* Consumed search budget: 80.559%; covered targets: 26; time per test: 11505.3ms (5.5 actions)
+[1A[2K* Consumed search budget: 84.474%; covered targets: 26; time per test: 11516.2ms (5.7 actions)
+[1A[2K* Consumed search budget: 87.768%; covered targets: 26; time per test: 11445.0ms (5.9 actions)
+[1A[2K* Consumed search budget: 88.078%; covered targets: 26; time per test: 11006.9ms (5.7 actions)
+[1A[2K* Consumed search budget: 88.540%; covered targets: 26; time per test: 10622.0ms (5.5 actions)
+[1A[2K* Consumed search budget: 89.746%; covered targets: 26; time per test: 10352.6ms (5.5 actions)
+[1A[2K* Consumed search budget: 92.620%; covered targets: 30; time per test: 10288.4ms (5.5 actions)
+[1A[2K* Consumed search budget: 95.344%; covered targets: 30; time per test: 10212.8ms (5.6 actions)
+[1A[2K* Consumed search budget: 98.132%; covered targets: 30; time per test: 10149.0ms (5.7 actions)
+[1A[2K* Consumed search budget: 99.485%; covered targets: 30; time per test: 9946.0ms (5.6 actions)
+[1A[2K* Consumed search budget: 100.184%; covered targets: 30; time per test: 9692.7ms (5.5 actions)
+* Going to save 11 tests to /home/result/Evomaster
+* Evaluated tests: 31
+* Evaluated actions: 171
+* Needed budget: 100%
+* Passed time (seconds): 300
+* Execution time per test (ms): Avg=9692.71 , min=805.00 , max=38103.00
+* Computation overhead between tests (ms): Avg=2.53 , min=1.00 , max=16.00
+* TCP timeouts: 4
+* Successfully executed (HTTP code 2xx) 6 endpoints out of 6 (100%)
+* EvoMaster process has completed successfully
+* Use [32m--help[0m and visit [34mhttp://www.evomaster.org[0m to learn more about available options
